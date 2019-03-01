@@ -3,7 +3,7 @@ Mobile Phone Like/Unlike Classification Using Perceptron Algorithm
 
 ## Project Target
 ```
-* Mobile Phone Like/Unlike Classification )
+* Mobile Phone Like/Unlike Classification
 * To predict whether a particular mobile phone will be LIKED by people or NOT?
 ```
 
